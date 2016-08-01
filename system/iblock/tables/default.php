@@ -1,0 +1,1 @@
+<?=H::table($table['content'], $table['headers'], 'class="table table-bordered"');?>
